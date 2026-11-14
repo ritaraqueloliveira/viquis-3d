@@ -5,7 +5,7 @@ Free to open files and take basic measurements. No sign-up. Your files never lea
 
 [**Open the online app**](https://www.viquis.com/app/) · [**Download for Windows**](https://github.com/ritaraqueloliveira/viquis-3d/releases/latest) · [Microsoft Store](https://apps.microsoft.com/detail/9NV8X6810X74) · [Website](https://www.viquis.com/en/)
 
-![Viquis 3D with the sample assembly: volume, area and mass](docs/img/viquis-3d-viewer.png)
+![Opening a STEP file in Viquis 3D: rotate, zoom and read the dimensions](docs/img/viquis-3d-open-step.gif)
 
 ## What it does
 
@@ -21,6 +21,18 @@ Free to open files and take basic measurements. No sign-up. Your files never lea
 | Section view | Holes, found automatically |
 |---|---|
 | ![Section view of the sample assembly](docs/img/viquis-3d-section.png) | ![Hole table on the sample assembly](docs/img/viquis-3d-holes.png) |
+
+## See it working
+
+**Section and exploded view** on the sample assembly:
+
+![A section plane sliding through the sample assembly, then the exploded view](docs/img/viquis-3d-section-explode.gif)
+
+**Find the holes and get the drawing:** type "find the holes" and ask for the technical drawing as PDF.
+
+![The hole table being filled in and the PDF technical drawing requested](docs/img/viquis-3d-holes-drawing.gif)
+
+![Viquis 3D with the sample assembly: volume, area and mass](docs/img/viquis-3d-viewer.png)
 
 ## Free and Pro
 
